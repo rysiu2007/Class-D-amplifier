@@ -1,6 +1,6 @@
 # Class-D Amplifier Learning Project
 
-A discrete $400\,\text{kHz}$ triangle wave generator and Class-D amplifier stage built for learning analog layout and circuit design. 
+A discrete $200\text{kHz}$ triangle wave generator and Class-D amplifier stage built for learning analog layout and circuit design. 
 
 ## Current Status
 * **Simulation:** LTspice transient simulations are verified but yet to finish.
