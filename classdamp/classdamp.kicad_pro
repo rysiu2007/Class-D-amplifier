@@ -54,7 +54,7 @@
           "border_hatch_pitch": 0.5,
           "corner_radius": 0.0,
           "corner_smoothing": 0,
-          "fill_mode": 0,
+          "fill_mode": 1,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
@@ -217,7 +217,11 @@
         0.2,
         0.3,
         0.4,
-        0.5
+        0.5,
+        0.75,
+        1.0,
+        3.0,
+        4.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -705,7 +709,7 @@
         "uuid": "52ea4e9c-2deb-4f29-8af7-d3f8f11a54ad"
       }
     ],
-    "used_designators": "R28-29,#PWR27,C15",
+    "used_designators": "R41-44,J3,#PWR67-72",
     "variants": []
   },
   "sheets": [
